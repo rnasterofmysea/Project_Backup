@@ -1,0 +1,24 @@
+
+
+.Statistics{
+
+  width: 100%;
+  height: 300px;
+  border: 1px solid black;
+  margin: 10px 10px 10px 10px;
+}
+
+.Job-Template{
+  width: 100%;
+  height: 300px;
+  border: 1px solid black;
+  margin: 10px 10px 10px 10px;
+}
+
+.Calender-Template{
+  width: 1000px;
+  height: 850px;
+  border: 1px solid black;
+  margin: 10px 10px 10px 10px;
+
+}
