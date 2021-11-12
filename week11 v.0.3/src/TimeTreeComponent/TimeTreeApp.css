@@ -1,0 +1,124 @@
+
+.TimeTreeTemplate{
+
+    height: 768px;
+    width: 1420px;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.04);
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .TimeTreeHead{
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e9ecef;
+  }
+  .bodynRBbanner{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .TimeTreeBody{
+    display: flex;
+    width: 1400px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    flex-direction: column;
+  }
+  
+  .RBbanner{
+    width: 450px;
+    height: 500px;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 10px 0px;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.04);
+    flex-direction: column;
+  }
+  
+  .titleList{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .How-Template{
+    width: 990px;
+    height: 450px;
+    margin: 10px 10px 10px 10px;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.04);
+  }
+  
+  
+  .How-head{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e9ecef;
+  }
+  
+  .How-body{
+    width: 950px;
+    height: 330px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.04);
+    padding: 10px 10px 10px 10px;
+    flex-direction: column;
+    overflow-y: auto;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 36px;
+    color: #343a40;
+  }
+  h2 {
+    margin:0;
+    font-size: 18px;
+    color: #343a40;
+  }
+  .progress-template{
+    width: 990px;
+    height: 100px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.04);
+    overflow-x: scroll;
+  }
+  .progress-div {
+    background-color: rgb(233, 233, 233);
+    border-radius: .5rem;
+    height: 10px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+  }
+  
+  .progress {
+    background-color: #20c997;
+    height: 10px;
+    border-radius: 1rem;
+    transition: 1s ease;
+    transition-delay: 0.5s;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    float: left;
+  }
+  
+  .progress-flag{
+    position: relative;
+  }
+  
+  
