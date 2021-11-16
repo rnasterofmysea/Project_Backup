@@ -1,0 +1,7 @@
+.body2{
+
+    display: flex;
+    flex-direction: row;
+    width: 99vw;
+    height: 85vh;
+}
