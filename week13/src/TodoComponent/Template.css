@@ -1,0 +1,61 @@
+.Template{
+    width: 25vw;
+    height: 70vh;
+  
+    position: relative; /* 추후 박스 하단에 추가 버튼을 위치시키기 위한 설정 */
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.04);
+  
+    margin: 1vw 1vw 1vw 1vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.TodoHead{
+    width: 23vw;
+    margin: 0px 0px 0px 0px;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.body{
+    overflow-y: auto;
+}
+
+h1 {
+    margin: 0;
+    font-size: 36px;
+    color: #343a40;
+  }
+h2 {
+    margin:0;
+    font-size: 18px;
+    color: #343a40;
+}
+
+.add-todo-button{  
+    background: #20c997;
+    z-index: 5;
+    cursor: pointer;
+    width: 80px;
+    height: 80px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, 50%);
+    color: white;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
