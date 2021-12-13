@@ -1,0 +1,14 @@
+input.underline {
+    border-left-width:0;
+    border-right-width:0;
+    border-top-width:0;
+    border-bottom-width: 3px solid black;
+}
+input:focus {outline:none;}
+input{
+    border-left-width:0;
+    border-right-width:0;
+    border-top-width:0;
+    border-bottom-width: 1px solid black;
+}
+/* input {border: none;} */

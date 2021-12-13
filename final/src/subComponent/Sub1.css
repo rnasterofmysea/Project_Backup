@@ -1,0 +1,19 @@
+.job-detail{
+    width: 45.5vw;
+    height:20vh;
+    margin: 1vw 1vw 1vw 1vw;
+    padding: 1vw 1vw 1vw 1vw;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.04);
+}
+
+.job-detail-static{
+    width: 95.5vw;
+    height:60vh;
+    margin: 1vw 1vw 1vw 1vw;
+    padding: 1vw 1vw 1vw 1vw;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.04);
+}
